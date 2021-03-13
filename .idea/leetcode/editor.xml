@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/study/leetcode/leetcode/editor/cn/[138]复制带随机指针的链表.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/study/leetcode/leetcode/editor/cn/[138]复制带随机指针的链表.cpp" />
+              <option name="questionId" value="138" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/study/leetcode/leetcode/editor/cn/[1]两数之和.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/study/leetcode/leetcode/editor/cn/[1]两数之和.cpp" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/study/leetcode/leetcode/editor/cn/[621]任务调度器.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/study/leetcode/leetcode/editor/cn/[621]任务调度器.cpp" />
+              <option name="questionId" value="621" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/study/leetcode/leetcode/editor/cn/[622]设计循环队列.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/study/leetcode/leetcode/editor/cn/[622]设计循环队列.cpp" />
+              <option name="questionId" value="860" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
